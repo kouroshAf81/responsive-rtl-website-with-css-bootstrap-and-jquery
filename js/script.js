@@ -22,6 +22,7 @@ jQuery(document).ready(function(){
             pageAnchorBuilder:false
         }
     });
+    
 });
 $(window).scroll(function(){
     var top = $(window).scrollTop();
